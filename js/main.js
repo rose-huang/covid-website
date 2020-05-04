@@ -203,7 +203,9 @@
             adaptiveHeight: true,
             pauseOnFocus: false,
             fade: true,
-            cssEase: 'linear'
+            cssEase: 'linear',
+            autoplay: true,
+            autoplaySpeed: 5000
         });
 
         $('.slider__slide').on('click', function() {
