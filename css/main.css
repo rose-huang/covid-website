@@ -100,7 +100,7 @@ body.ss-bg-white {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #33998a;
+  color: #439A86;
   transition: all 0.3s ease-in-out;
 }
 
@@ -3672,6 +3672,12 @@ body.search-is-visible {
 }
 
 #resources {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-top: 2px groove rgba(0, 0, 0, 0.1);
+}
+
+#contact {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   border-top: 2px groove rgba(0, 0, 0, 0.1);
